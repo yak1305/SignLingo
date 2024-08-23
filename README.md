@@ -40,6 +40,9 @@ This Python-based graphical user interface (GUI) application utilizes advanced c
    includes a GUI for language selection and processes video frames in real-time until the user exits by pressing 'q'.
 
 
+   
+
+
 
 
 
